@@ -11,7 +11,7 @@
     header{
     background-color: #424e61;
     color: white;
-    width: 50%;
+    width: 100%;
     padding: 20px;
 
     }
@@ -32,8 +32,8 @@
     .titulo_site{
         padding: 50px;
         text-align: center;
-        width: 100%;
-        font: 80px;
+        width: 30%;
+        font: 30px;
     }
     .redes{
         display: flex;
