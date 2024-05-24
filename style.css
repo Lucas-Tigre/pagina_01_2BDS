@@ -26,7 +26,7 @@
         padding: 50px;
         text-align: flex center;
         width: 50%;
-        font: 50px;
+        font: 80px;
     }
     .redes{
         display: flex;
@@ -38,48 +38,4 @@
         display: flex;
         justify-content: center;
     }
-    .estudante_titulo{
-        padding: 50px;
-        text-align: center;
-        } 
-    .estudante-nome{
-            text-align: center;
-            }
-    .estudante-imagem{
-            width: 120px;
-            }
-    .estudante-icone{
-                width: 38px;
-                padding: 4px 8px;
-                }
-                .estudante.div{
-                    text-align: center;
-                    padding: 24px 0;
-                    }
-                    .estudantes_todos{
-                    display: flex;
-                    justify-content: space-around;
-                    }
-                    .escola{ 
-                        background-image: linear- gradient(#40A2E3,#7FC2EF);
-                        color: white;
-                        display: flex;
-                        justify-content:center;
-                        padding: 24px 0;
-                        text-align:center;
-                        display:block
-                        }
-                        .escola
-                        -titulo{
-                        padding: 50px;
-                        text-align:center;
-                        }
-                        .logo_rodape{
-                            height: 80px;
-                            padding: 12px 0;
-                        }
-                        .logo_rodape
-                        .link{
-                            color: #ffffff;
-                            text-decoration: none;
-                        }
+    
