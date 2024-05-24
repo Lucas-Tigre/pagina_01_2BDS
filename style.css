@@ -22,11 +22,11 @@
         align-items: center;
         justify-content: center;
     }
-.cabecalho-logo{
-width: 10%;
-display: flex;
-justify-content: flex-start;
-align-items: center;
+    .cabecalho-logo{
+    width: 10%;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
 }
     
     .titulo_site{
