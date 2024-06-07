@@ -80,7 +80,6 @@
       justify-content: space-around;
       }
       
-      
         .escola{
         background-image: linear-gradient(#40A2E3,#7FC2EF);
         color: white;
@@ -97,5 +96,9 @@
         .logo_rodape{
         height: 80px;
         padding: 12px 0;
-        
         }
+        
+        .link{
+          color: #ffffff;
+          text-decoration: none;
+          }
