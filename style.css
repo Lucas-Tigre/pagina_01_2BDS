@@ -83,7 +83,7 @@
       .escola{
         background-image: linear-gradient(#000000,#ffffff);
         color: white;
-        display: flex;
+        display: flex end;
         justify-content:center;
         padding: 24px 0;
         text-align:center;
@@ -96,11 +96,11 @@
         }
         
         .logo_rodape{
-        height: 80px;
+        height: 50px;
         padding: 12px 0;
         }
         
         .link{
-          color: #ffffff;
+          color: #ff0000;
           text-decoration: none;
           }
